@@ -84,6 +84,9 @@ publication_category:
     title: 'Conference Papers'
   preprints:
     title: 'Preprints'
+  reports:
+    title: 'Academic Reports'
+  
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -265,7 +268,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: false
   # _portfolio
   - scope:
       path: ""
@@ -274,7 +277,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comment: false
   # _talks
   # - scope:
   #     path: ""
