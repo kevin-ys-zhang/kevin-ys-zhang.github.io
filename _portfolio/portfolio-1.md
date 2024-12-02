@@ -1,7 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Foundational LLMs for Decompiled Code"
+excerpt: "Advisors: Professor Lin Tan, PhD students Nan Jiang and Danning Xie<br /> In this project, we aim to develop a foundational model for use in refinement of the output
+of decompilers. Previous state-of-the-art approach <a href="https://arxiv.org/abs/2403.05286">LLM4Decompile</a> is trained only on output of the Ghidra SRE tool, and we hope to build on the generalization capabilities of the model for use with output of the Hex-Rays decompiler accessed through IDA Pro. I am thus aiming to explore efficient self-supervised methods and architectural adjustments for finetuning of their released model. Gathering and decopmiling code from Github repositories has been a major bottleneck in this project, combined with slow training of very large models, further indicating to me the importance of model and data efficient approaches."
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
