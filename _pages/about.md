@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kevin (YuShan) Zhang"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
